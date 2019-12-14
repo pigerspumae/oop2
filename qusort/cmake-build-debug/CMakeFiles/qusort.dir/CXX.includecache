@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/Projects/qusort/main.cpp
+functional
+-
+algorithm
+-
+iterator
+-
+qusort.hpp
+C:/Users/User/Documents/Projects/qusort/qusort.hpp
+
+C:/Users/User/Documents/Projects/qusort/qusort.hpp
+iostream
+-
+functional
+-
+algorithm
+-
+iterator
+-
+
