@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.13)
+project(tpl_sum_all)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
+set(CMAKE_CXX_STANDARD 17)
+
+set(SOURCE_FILES main.cpp sum_all.hpp sum_traits.hpp sum_policy.hpp)
+add_executable(tpl_sum_all ${SOURCE_FILES})
+add_library(mylib ${SOURCE_FILES})
+add_subdirectory(g_test/googletest)
+include_directories(g_test/googletest/)
+
+add_executable(t_sumall g_test/test.cpp g_test/test.h sum_all.hpp sum_traits.hpp sum_policy.hpp)
+target_link_libraries(t_sumall gtest gtest_main)
+target_link_libraries(t_sumall gmock gmock_main)
+target_link_libraries(t_sumall mylib)

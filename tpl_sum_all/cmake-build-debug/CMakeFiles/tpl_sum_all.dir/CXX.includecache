@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/Projects/tpl_sum_all/main.cpp
+iostream
+-
+vector
+-
+unordered_set
+-
+set
+-
+sum_all.hpp
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_all.hpp
+
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_all.hpp
+set
+-
+map
+-
+list
+-
+forward_list
+-
+unordered_map
+-
+sum_policy.hpp
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_policy.hpp
+sum_traits.hpp
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_traits.hpp
+
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_policy.hpp
+type_traits
+-
+sum_traits.hpp
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_traits.hpp
+
+C:/Users/User/Documents/Projects/tpl_sum_all/sum_traits.hpp
+string
+-
+

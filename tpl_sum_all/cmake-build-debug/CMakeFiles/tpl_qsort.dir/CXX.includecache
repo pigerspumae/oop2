@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/Projects/tpl_sum_all/main.cpp
+algorithm
+-
+iostream
+-
+iterator
+-
+numeric
+-
+set
+-
+string
+-
+vector
+-
+unordered_set
+-
+
