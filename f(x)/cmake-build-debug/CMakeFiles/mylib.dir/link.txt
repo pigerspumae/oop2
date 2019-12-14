@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\mingw64\bin\ar.exe qc libmylib.a  CMakeFiles/mylib.dir/main.cpp.obj CMakeFiles/mylib.dir/solver_f_x.cpp.obj
+C:\Users\User\Desktop\mingw64\bin\ranlib.exe libmylib.a

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Documents/Projects/f(x)/main.cpp
+iostream
+-
+solver_f_x.hpp
+C:/Users/User/Documents/Projects/f(x)/solver_f_x.hpp
+
+C:/Users/User/Documents/Projects/f(x)/solver_f_x.cpp
+solver_f_x.hpp
+C:/Users/User/Documents/Projects/f(x)/solver_f_x.hpp
+
+C:/Users/User/Documents/Projects/f(x)/solver_f_x.hpp
+iostream
+-
+cmath
+-
+memory
+-
+

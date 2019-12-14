@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.13)
+project(f_x_)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
+set(CMAKE_CXX_STANDARD 17)
+
+set(SOURCE_FILES main.cpp solver_f_x.cpp solver_f_x.hpp)
+add_executable(f_x_ ${SOURCE_FILES})
+add_library(mylib ${SOURCE_FILES})
+add_subdirectory(g_test/googletest)
+include_directories(g_test/googletest/)
+
+add_executable(t_f_x g_test/test.cpp g_test/test.h solver_f_x.cpp solver_f_x.hpp)
+target_link_libraries(t_f_x gtest gtest_main)
+target_link_libraries(t_f_x gmock gmock_main)
+target_link_libraries(t_f_x mylib)
