@@ -21,24 +21,20 @@ TEST(operator_eq, same_ptr) {
 
 
 TEST(operator_eq, null_ptr) {
-    int *a = new(int);
-    *a = 1;
-    SharedPTR<int> ptr(a);
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
     ptr = nullptr;
     EXPECT_EQ(ptr.get(), nullptr);
-    EXPECT_EQ(*(get_count(ptr)), 1);
+    EXPECT_EQ(get_count(ptr), nullptr);
 }
 
 TEST(operator_eq, valid_constr) {
-    int *a = new(int);
-    *a = 1;
-    SharedPTR<int> ptr(a);
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
     SharedPTR<int> ptr2(ptr);
     EXPECT_EQ(ptr.get(), ptr2.get());
     EXPECT_EQ(*(get_count(ptr)), 2);
     EXPECT_EQ(*(get_count(ptr2)), 2);
-    EXPECT_EQ(ptr.get(), a);
-    EXPECT_EQ(ptr2.get(), a);
 }
 
 TEST(operator_eq, null_constr) {
@@ -72,9 +68,8 @@ TEST(get, default) {
 }
 
 TEST(operator_bool, TRUE) {
-    int *a = new(int);
-    *a = 1;
-    SharedPTR<int> ptr(a);
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
     EXPECT_TRUE(ptr);
     EXPECT_EQ(*(get_count(ptr)), 1);
 }
@@ -85,17 +80,13 @@ TEST(operator_bool, FALSE) {
     EXPECT_EQ(get_count(ptr), nullptr);
 }
 
-TEST(release, valid) {
-    int *a = new(int);
-    *a = 1;
-    auto add = a;
-    SharedPTR<int> ptr(a);
+TEST(release, valid){
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
     EXPECT_EQ(*(get_count(ptr)), 1);
     ptr.release();
     EXPECT_EQ(ptr.get(), nullptr);
     EXPECT_EQ(get_count(ptr), nullptr);
-    EXPECT_EQ(a, add);
-    EXPECT_EQ(*a, 1);
 }
 
 
@@ -106,12 +97,11 @@ TEST(release, empty) {
 }
 
 TEST(reset, valid) {
-    int *a = new(int);
-    *a = 1;
-    SharedPTR<int> ptr(a);
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
     ptr.reset();
     EXPECT_EQ(ptr.get(), nullptr);
-    EXPECT_EQ(*(get_count(ptr)), 1);
+    EXPECT_EQ(get_count(ptr), nullptr);
 }
 
 TEST(reset, empty) {
@@ -166,12 +156,10 @@ TEST(assignment, empty) {
 }
 
 TEST(assignment, valid) {
-    int *a = new(int);
-    *a = 1;
-    SharedPTR<int> ptr(a);
-    int *b = new(int);
-    *a = 2;
-    SharedPTR<int> ptr2(b);
+    SharedPTR<int> ptr(new(int));
+    *ptr = 1;
+    SharedPTR<int> ptr2(new(int));
+    *ptr2 = 2;
     ptr = ptr2;
     EXPECT_EQ(ptr.get(), ptr2.get());
     EXPECT_EQ(*get_count(ptr), *get_count(ptr2));

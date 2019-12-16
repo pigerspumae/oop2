@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/Documents/Projects/my_shared_ptr
+# Install script for directory: C:/Users/User/Documents/Projects/oop2/my_shared_ptr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/g_test/googletest/cmake_install.cmake")
+  include("C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/g_test/googletest/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

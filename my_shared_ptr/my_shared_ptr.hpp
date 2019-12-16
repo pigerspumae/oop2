@@ -80,11 +80,7 @@ inline SharedPTR<Type, TDeleter> &SharedPTR<Type, TDeleter>::operator=(t_SharedP
 
 template<class Type, class TDeleter>
 inline SharedPTR<Type, TDeleter> &SharedPTR<Type, TDeleter>::operator=(Type *pObject) {
-    if (pointer != pObject) {
-        release();
-        pointer = pObject;
-        pointer_count = new int(1);
-    }
+    reset(pObject);
     return *this;
 }
 
@@ -154,8 +150,13 @@ template<class Type, class TDeleter>
 inline void SharedPTR<Type, TDeleter>::reset(Type *pObject) {
     if (pointer != pObject) {
         release();
-        pointer = pObject;
-        pointer_count = new int(1);
+        if(pObject == nullptr){
+            pointer = nullptr;
+            pointer_count = nullptr;
+        }else{
+            pointer = pObject;
+            pointer_count = new int(1);
+        }
     }
 }
 

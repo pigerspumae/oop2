@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Documents/Projects/my_shared_ptr/g_test/test.cpp" "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/CMakeFiles/t_ptr.dir/g_test/test.cpp.obj"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/g_test/test.cpp" "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/CMakeFiles/t_ptr.dir/g_test/test.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -19,11 +19,11 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
-  "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
-  "C:/Users/User/Documents/Projects/my_shared_ptr/cmake-build-debug/CMakeFiles/mylib.dir/DependInfo.cmake"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake"
+  "C:/Users/User/Documents/Projects/oop2/my_shared_ptr/cmake-build-debug/CMakeFiles/mylib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

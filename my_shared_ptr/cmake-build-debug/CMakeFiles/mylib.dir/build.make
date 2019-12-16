@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Documents\Projects\my_shared_ptr
+CMAKE_SOURCE_DIR = C:\Users\User\Documents\Projects\oop2\my_shared_ptr
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/mylib.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/mylib.dir/flags.make
 CMakeFiles/mylib.dir/main.cpp.obj: CMakeFiles/mylib.dir/flags.make
 CMakeFiles/mylib.dir/main.cpp.obj: CMakeFiles/mylib.dir/includes_CXX.rsp
 CMakeFiles/mylib.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mylib.dir/main.cpp.obj"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\mylib.dir\main.cpp.obj -c C:\Users\User\Documents\Projects\my_shared_ptr\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mylib.dir/main.cpp.obj"
+	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\mylib.dir\main.cpp.obj -c C:\Users\User\Documents\Projects\oop2\my_shared_ptr\main.cpp
 
 CMakeFiles/mylib.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mylib.dir/main.cpp.i"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\my_shared_ptr\main.cpp > CMakeFiles\mylib.dir\main.cpp.i
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\oop2\my_shared_ptr\main.cpp > CMakeFiles\mylib.dir\main.cpp.i
 
 CMakeFiles/mylib.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mylib.dir/main.cpp.s"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\my_shared_ptr\main.cpp -o CMakeFiles\mylib.dir\main.cpp.s
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\oop2\my_shared_ptr\main.cpp -o CMakeFiles\mylib.dir\main.cpp.s
 
 # Object files for target mylib
 mylib_OBJECTS = \
@@ -80,7 +80,7 @@ mylib_EXTERNAL_OBJECTS =
 libmylib.a: CMakeFiles/mylib.dir/main.cpp.obj
 libmylib.a: CMakeFiles/mylib.dir/build.make
 libmylib.a: CMakeFiles/mylib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libmylib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libmylib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\mylib.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\mylib.dir\link.txt --verbose=$(VERBOSE)
 
@@ -94,6 +94,6 @@ CMakeFiles/mylib.dir/clean:
 .PHONY : CMakeFiles/mylib.dir/clean
 
 CMakeFiles/mylib.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Documents\Projects\my_shared_ptr C:\Users\User\Documents\Projects\my_shared_ptr C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug C:\Users\User\Documents\Projects\my_shared_ptr\cmake-build-debug\CMakeFiles\mylib.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Documents\Projects\oop2\my_shared_ptr C:\Users\User\Documents\Projects\oop2\my_shared_ptr C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug C:\Users\User\Documents\Projects\oop2\my_shared_ptr\cmake-build-debug\CMakeFiles\mylib.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/mylib.dir/depend
 
