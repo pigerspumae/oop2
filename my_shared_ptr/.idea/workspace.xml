@@ -17,92 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d24646c-0a07-4f66-ae63-a7c1f52a5771" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/my_shared_ptr.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/mylib.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/g_test/test.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/g_test/test.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/t_ptr.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/CTestTestfile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/CTestTestfile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gmock.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gmock.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/CTestTestfile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/gtest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googlemock/gtest/gtest.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googletest-distribution.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/g_test/googletest/googletest-distribution.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgmock_maind.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgmock_maind.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgmockd.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgmockd.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgtest_maind.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgtest_maind.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/lib/libgtestd.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/lib/libgtestd.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libmylib.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libmylib.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/my_shared_ptr.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/my_shared_ptr.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/t_ptr.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/t_ptr.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/g_test/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/g_test/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_shared_ptr.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/my_shared_ptr.hpp" afterDir="false" />
-    </list>
+    <list default="true" id="4d24646c-0a07-4f66-ae63-a7c1f52a5771" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/g_test/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+            <state relative-caret-position="1156">
+              <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -163,7 +78,7 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1060" />
     <option name="height" value="1040" />
@@ -332,7 +247,7 @@
       <workItem from="1576156073690" duration="1544000" />
       <workItem from="1576350209830" duration="599000" />
       <workItem from="1576351992686" duration="17000" />
-      <workItem from="1576501570517" duration="2851000" />
+      <workItem from="1576501570517" duration="4669000" />
     </task>
     <servers />
   </component>
@@ -369,7 +284,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60887000" />
+    <option name="totallyTimeSpent" value="62705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -390,7 +305,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="CMake" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.28895184" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.3427762" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.3427762" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -399,17 +314,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/g_test/test.cpp</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my_sharesd_ptr.cpp" />
@@ -522,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g_test/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
+        <state relative-caret-position="1156">
+          <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
