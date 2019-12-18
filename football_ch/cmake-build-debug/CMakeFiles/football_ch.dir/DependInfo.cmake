@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Documents/Projects/football_ch/championship.cpp" "C:/Users/User/Documents/Projects/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/championship.cpp.obj"
-  "C:/Users/User/Documents/Projects/football_ch/main.cpp" "C:/Users/User/Documents/Projects/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/main.cpp.obj"
-  "C:/Users/User/Documents/Projects/football_ch/members_of_championship.cpp" "C:/Users/User/Documents/Projects/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/members_of_championship.cpp.obj"
+  "C:/Users/User/Documents/Projects/oop2/football_ch/championship.cpp" "C:/Users/User/Documents/Projects/oop2/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/championship.cpp.obj"
+  "C:/Users/User/Documents/Projects/oop2/football_ch/main.cpp" "C:/Users/User/Documents/Projects/oop2/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/main.cpp.obj"
+  "C:/Users/User/Documents/Projects/oop2/football_ch/members_of_championship.cpp" "C:/Users/User/Documents/Projects/oop2/football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/members_of_championship.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

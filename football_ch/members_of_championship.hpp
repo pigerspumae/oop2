@@ -33,8 +33,8 @@ struct Match : Member {
     std::string data;
     std::string location;
     std::string result;
-    std::shared_ptr<Team> team1;
-    std::shared_ptr<Team> team2;
+    std::shared_ptr<Team> team1; //TODO: week_ptr
+    std::shared_ptr<Team> team2; //TODO: week_ptr
     std::vector<uint32_t> id_teams;
     std::vector<std::shared_ptr<Player>> players;
     std::vector<uint32_t> id_players;
@@ -47,8 +47,8 @@ struct Match : Member {
 
 struct Player : Member {
     std::string name;
-    std::shared_ptr<Team> team;
-    std::shared_ptr<Match> match;
+    std::shared_ptr<Team> team; //TODO: week_ptr
+    std::shared_ptr<Match> match; //TODO: week_ptr
     uint32_t team_id;
 
     Player(std::istream &in);

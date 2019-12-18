@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Documents\Projects\football_ch
+CMAKE_SOURCE_DIR = C:\Users\User\Documents\Projects\oop2\football_ch
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Documents\Projects\football_ch\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/football_ch.dir/depend.make
@@ -58,42 +58,42 @@ include CMakeFiles/football_ch.dir/flags.make
 
 CMakeFiles/football_ch.dir/main.cpp.obj: CMakeFiles/football_ch.dir/flags.make
 CMakeFiles/football_ch.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/football_ch.dir/main.cpp.obj"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\main.cpp.obj -c C:\Users\User\Documents\Projects\football_ch\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/football_ch.dir/main.cpp.obj"
+	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\main.cpp.obj -c C:\Users\User\Documents\Projects\oop2\football_ch\main.cpp
 
 CMakeFiles/football_ch.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/football_ch.dir/main.cpp.i"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\football_ch\main.cpp > CMakeFiles\football_ch.dir\main.cpp.i
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\oop2\football_ch\main.cpp > CMakeFiles\football_ch.dir\main.cpp.i
 
 CMakeFiles/football_ch.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/football_ch.dir/main.cpp.s"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\football_ch\main.cpp -o CMakeFiles\football_ch.dir\main.cpp.s
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\oop2\football_ch\main.cpp -o CMakeFiles\football_ch.dir\main.cpp.s
 
 CMakeFiles/football_ch.dir/members_of_championship.cpp.obj: CMakeFiles/football_ch.dir/flags.make
 CMakeFiles/football_ch.dir/members_of_championship.cpp.obj: ../members_of_championship.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/football_ch.dir/members_of_championship.cpp.obj"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\members_of_championship.cpp.obj -c C:\Users\User\Documents\Projects\football_ch\members_of_championship.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/football_ch.dir/members_of_championship.cpp.obj"
+	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\members_of_championship.cpp.obj -c C:\Users\User\Documents\Projects\oop2\football_ch\members_of_championship.cpp
 
 CMakeFiles/football_ch.dir/members_of_championship.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/football_ch.dir/members_of_championship.cpp.i"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\football_ch\members_of_championship.cpp > CMakeFiles\football_ch.dir\members_of_championship.cpp.i
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\oop2\football_ch\members_of_championship.cpp > CMakeFiles\football_ch.dir\members_of_championship.cpp.i
 
 CMakeFiles/football_ch.dir/members_of_championship.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/football_ch.dir/members_of_championship.cpp.s"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\football_ch\members_of_championship.cpp -o CMakeFiles\football_ch.dir\members_of_championship.cpp.s
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\oop2\football_ch\members_of_championship.cpp -o CMakeFiles\football_ch.dir\members_of_championship.cpp.s
 
 CMakeFiles/football_ch.dir/championship.cpp.obj: CMakeFiles/football_ch.dir/flags.make
 CMakeFiles/football_ch.dir/championship.cpp.obj: ../championship.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/football_ch.dir/championship.cpp.obj"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\championship.cpp.obj -c C:\Users\User\Documents\Projects\football_ch\championship.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/football_ch.dir/championship.cpp.obj"
+	C:\Users\User\Desktop\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\football_ch.dir\championship.cpp.obj -c C:\Users\User\Documents\Projects\oop2\football_ch\championship.cpp
 
 CMakeFiles/football_ch.dir/championship.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/football_ch.dir/championship.cpp.i"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\football_ch\championship.cpp > CMakeFiles\football_ch.dir\championship.cpp.i
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Documents\Projects\oop2\football_ch\championship.cpp > CMakeFiles\football_ch.dir\championship.cpp.i
 
 CMakeFiles/football_ch.dir/championship.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/football_ch.dir/championship.cpp.s"
-	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\football_ch\championship.cpp -o CMakeFiles\football_ch.dir\championship.cpp.s
+	C:\Users\User\Desktop\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Documents\Projects\oop2\football_ch\championship.cpp -o CMakeFiles\football_ch.dir\championship.cpp.s
 
 # Object files for target football_ch
 football_ch_OBJECTS = \
@@ -111,7 +111,7 @@ football_ch.exe: CMakeFiles/football_ch.dir/build.make
 football_ch.exe: CMakeFiles/football_ch.dir/linklibs.rsp
 football_ch.exe: CMakeFiles/football_ch.dir/objects1.rsp
 football_ch.exe: CMakeFiles/football_ch.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Documents\Projects\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable football_ch.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable football_ch.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\football_ch.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/football_ch.dir/clean:
 .PHONY : CMakeFiles/football_ch.dir/clean
 
 CMakeFiles/football_ch.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Documents\Projects\football_ch C:\Users\User\Documents\Projects\football_ch C:\Users\User\Documents\Projects\football_ch\cmake-build-debug C:\Users\User\Documents\Projects\football_ch\cmake-build-debug C:\Users\User\Documents\Projects\football_ch\cmake-build-debug\CMakeFiles\football_ch.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Documents\Projects\oop2\football_ch C:\Users\User\Documents\Projects\oop2\football_ch C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug C:\Users\User\Documents\Projects\oop2\football_ch\cmake-build-debug\CMakeFiles\football_ch.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/football_ch.dir/depend
 
