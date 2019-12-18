@@ -4,11 +4,11 @@
     <generated>
       <config projectName="my_shared_ptr" targetName="gtest_main" />
       <config projectName="my_shared_ptr" targetName="mylib" />
-      <config projectName="my_shared_ptr" targetName="my_shared_ptr" />
-      <config projectName="my_shared_ptr" targetName="t_ptr" />
       <config projectName="my_shared_ptr" targetName="gtest" />
       <config projectName="my_shared_ptr" targetName="gmock_main" />
+      <config projectName="my_shared_ptr" targetName="t_ptr" />
       <config projectName="my_shared_ptr" targetName="gmock" />
+      <config projectName="my_shared_ptr" targetName="my_shared_ptr" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -17,7 +17,35 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d24646c-0a07-4f66-ae63-a7c1f52a5771" name="Default Changelist" comment="" />
+    <list default="true" id="4d24646c-0a07-4f66-ae63-a7c1f52a5771" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../football_ch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/championship.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/members_of_championship.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/CMakeFiles/football_ch.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/cmake-build-debug/football_ch.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/cmake-build-debug/football_ch.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../football_ch/members_of_championship.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../football_ch/members_of_championship.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_shared_ptr.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="2601">
               <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
               <folding>
                 <marker date="1576507789773" expanded="true" signature="3214:3444" ph="{...}" />
@@ -43,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/g_test/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+            <state relative-caret-position="-1110">
+              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -78,7 +106,7 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="1060" />
     <option name="height" value="1040" />
@@ -89,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,10 +128,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -248,6 +277,8 @@
       <workItem from="1576350209830" duration="599000" />
       <workItem from="1576351992686" duration="17000" />
       <workItem from="1576501570517" duration="4669000" />
+      <workItem from="1576511318982" duration="61000" />
+      <workItem from="1576573381690" duration="593000" />
     </task>
     <servers />
   </component>
@@ -284,13 +315,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62705000" />
+    <option name="totallyTimeSpent" value="63359000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15436241" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,7 +446,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_shared_ptr.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="2601">
           <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
           <folding>
             <marker date="1576507789773" expanded="true" signature="3214:3444" ph="{...}" />
@@ -426,8 +456,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/g_test/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+        <state relative-caret-position="-1110">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
